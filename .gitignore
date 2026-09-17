@@ -22,6 +22,10 @@
 !/profiles/
 !/profiles/**
 
+# The readme and dev notes
+!readme.md
+!dev.md
+
 # Download metadata is what makes a compile reproducible from a tag; the
 # archives themselves (multi-GiB) stay untracked. The downloads directory
 # itself must be un-ignored for git to descend into it, its contents are
