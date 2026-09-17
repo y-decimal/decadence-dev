@@ -61,7 +61,7 @@
 +NCPD Duty Expansion
 +Law Enforcement Overhaul
 +Immersive Gigs
--Gameplay_separator
+-General Gameplay Changes and Overhauls_separator
 +Real Vendor Names
 +Gone Away - Better Partner Suspended Behaviour
 -Various QoL_separator
@@ -79,7 +79,7 @@
 +CET Window Manager
 +Bloat Begone - 1.5.0b - No Version - No Rewards
 +Load Begone - 2.2.1 (FOMOD)
--General QoL_separator
+-UI QoL_separator
 +Deceptious Bug Fixes
 +AI Trigger Overhaul - More Perceptive NPCs
 +Immersive Night City Fixes

@@ -24,7 +24,10 @@
 +Hair Color Profiles CCXL
 +Preem Hair
 -Hair_separator
++Beautiful IRIS - CCXL Realistic Eyes Texture - Both V
 +Photoreal Eyes CCXL (2048x2048)
++Heterochromia Eyes - CCXL - EKT CC
++Heterochromia Eyes - CCXL
 +Unique Eyes to CCXL
 -Eyes_separator
 +Universal Skin Tone - Skin Material - Warm and Smooth
@@ -54,28 +57,37 @@
 +General Shadows Fixes
 +Ultra Plus Best Performance and Visuals for Everyone
 -Visuals_separator
-+NCPD Duty Expansion
++1 minimum RAM cost for quickhacks
++Quickhack Damage Fix
++Quickhack Fixes
++Trace Position Overhaul
+-Netrunning_separator
+-NCPD Duty Expansion
++They Will Remember
 +Law Enforcement Overhaul
 +Immersive Gigs
--Gameplay_separator
-+Real Vendor Names
+-General Gameplay Changes and Overhauls_separator
 +Gone Away - Better Partner Suspended Behaviour
 -Various QoL_separator
 +ForbiddenVehicleMovementNoMore
 +Chipware Connoisseur - Infinite Cyberware Stat Rerolling
 +Auto Unequip Weapon Mods And Attachments
-+Remove Sandevistan - Berserk - Kerenzikov Screen Effect
 +Better Flashlight
 +Advanced Control Regained
 +Advanced Control Mod 1.2.3
 +Skip Anything With TIme Acceleration
 +Shift (Dynamic First Person Camera)
 -Gameplay QoL_separator
++Remove Sandevistan - Berserk - Kerenzikov Screen Effect
++Real Vendor Names
++Inventory Adjustments Hub
 +Window Switcher (Taskbar - Groups - Utilities for CET)
 +CET Window Manager
 +Bloat Begone - 1.5.0b - No Version - No Rewards
 +Load Begone - 2.2.1 (FOMOD)
--General QoL_separator
+-UI QoL_separator
++Streaming Bug Workaround
++Melee Attacks Fixes And Enhancements
 +Deceptious Bug Fixes
 +AI Trigger Overhaul - More Perceptive NPCs
 +Immersive Night City Fixes
