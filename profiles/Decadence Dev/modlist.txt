@@ -7,9 +7,11 @@
 -Settings_separator
 +red4-conflicts
 -Tools_separator
-+LUT Switcher - Preem LUT Pack
-+LUT Switcher - Edge LUT Pack
-+LUT Switcher 2 - Core
++LUT Pack - Nova LUT
++LUT Pack - Edge LUT
++LUT Pack - Preem LUT
++LUT Pack - Nova LUT 3 HDR
++LUT Switcher 3 (Realtime - Scanner - Weather - Menu)
 -LUT Switcher_separator
 +Hot-Sampled Photomode Renders (IGPT)
 +Photomode Tweaks
@@ -50,7 +52,6 @@
 +Eyes LOD Fix - No more disappearing eyes
 +Improved Distant Shadows and Reflections
 +General Shadows Fixes
--Disable Fake Lights with Path Tracing
 +Ultra Plus Best Performance and Visuals for Everyone
 -Visuals_separator
 +NCPD Duty Expansion
@@ -80,6 +81,7 @@
 +Immersive Night City Fixes
 +Immersive Night City Fixes - CORE
 -Fixes and Tweaks_separator
++Window Utils (GUI Library - Animation - Grid Alignment)
 +ReImagined
 +BrowserExtensionFramework
 +Microblend Resource
@@ -87,7 +89,6 @@
 +The Community Palette Project
 +Material and Texture Override (Crashes Resolved)
 +NightlyNow Core
--Phone Extension
 +InplaceSectorsNulled
 +CP Styling
 +VendorsXL
