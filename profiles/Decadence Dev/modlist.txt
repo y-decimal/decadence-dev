@@ -68,6 +68,9 @@
 +Immersive Rippers
 +Live A Little - AIO
 -Quests and world_separator
++Hardcore22V3 - Netrunner Scaling
++Hardcore22V3 - Grenade Scaling
++Hardcore22V3 - Body Scaling
 +Immersive Cyberware
 +Pre-2.0 Skill Checks
 +They Will Remember
@@ -86,6 +89,7 @@
 +Skip Anything With TIme Acceleration
 +Shift (Dynamic First Person Camera)
 -Gameplay Tweaks and QoL_separator
++Limited HUD
 +Remove Sandevistan - Berserk - Kerenzikov Screen Effect
 +Real Vendor Names
 +Inventory Adjustments Hub
