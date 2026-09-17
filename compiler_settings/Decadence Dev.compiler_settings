@@ -15,11 +15,11 @@
   "ModListReadme": "",
   "ModListWebsite": "",
   "ModListCommunity": "",
-  "ModlistVersion": "0.0.2.0",
+  "ModlistVersion": "0.0.3.1",
   "PublishUpdate": false,
   "MachineUrl": "",
   "AutoGenerateReport": false,
-  "Profile": "Decadence Dev",
+  "Profile": "Decadence Release",
   "AdditionalProfiles": [],
   "NoMatchInclude": [
     "mods\\CET Settings",
@@ -39,6 +39,6 @@
     "dev.md"
   ],
   "AlwaysEnabled": [],
-  "Version": "0.0.2",
+  "Version": "0.0.3",
   "Description": null
 }

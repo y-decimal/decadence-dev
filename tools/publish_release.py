@@ -38,6 +38,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import tui  # noqa: E402  (lives beside this script)
 
 from compile_modlist import (  # noqa: E402
+    DEFAULT_OUTPUT_DIR,
     SETTINGS_EXT,
     load_settings_json,
 )
@@ -138,7 +139,11 @@ def main() -> int:
         version = (settings.get("ModlistVersion")
                    or settings.get("Version") or "")
         version = str(version).removesuffix(".0") or "0.0.1"
+        # Default to where compile_modlist.py actually writes the artifact:
+        # the settings' OutputFile name inside its default output directory.
         output_file = Path(settings.get("OutputFile", ""))
+        if output_file.name:
+            output_file = DEFAULT_OUTPUT_DIR / output_file.name
 
         artifact = tui.ask_path("The compiled .wabbajack to attach", output_file)
         if not artifact.is_file():
