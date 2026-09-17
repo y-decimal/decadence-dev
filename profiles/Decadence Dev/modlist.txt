@@ -43,7 +43,7 @@
 +EKT Custom Character Creator - Vanilla Eyes
 +Character Preset Manager (CET)
 -Body and Skin_separator
-+Preem Scanner - No Tint
++Preem Scanner - Pure
 +Alt Character Lighting
 +Better UI Character Lighting - Portrait Edition
 +Extended and Improved Headlights
@@ -65,8 +65,9 @@
 +Quickhack Fixes
 +Trace Position Overhaul
 -Netrunning_separator
++Immersive Rippers
 +Live A Little - AIO
--Quests_separator
+-Quests and world_separator
 +Immersive Cyberware
 +Pre-2.0 Skill Checks
 +They Will Remember
@@ -74,6 +75,7 @@
 +Immersive Gigs
 -General Gameplay Changes and Overhauls_separator
 +Cyberware Improved
++Clean Voiceovers
 +ForbiddenVehicleMovementNoMore
 +Gone Away - Better Partner Suspended Behaviour
 +Chipware Connoisseur - Infinite Cyberware Stat Rerolling
