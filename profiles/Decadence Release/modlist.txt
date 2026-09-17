@@ -13,6 +13,7 @@
 +LUT Pack - Nova LUT 3 HDR
 +LUT Switcher 3 (Realtime - Scanner - Weather - Menu)
 -LUT Switcher_separator
++CharLi - Character Lighting Suite for Photomode
 +Hot-Sampled Photomode Renders (IGPT)
 +Photomode Tweaks
 +PhotoMode-EX
@@ -42,6 +43,7 @@
 +EKT Custom Character Creator - Vanilla Eyes
 +Character Preset Manager (CET)
 -Body and Skin_separator
++Preem Scanner - Pure
 +Alt Character Lighting
 +Better UI Character Lighting - Portrait Edition
 +Extended and Improved Headlights
@@ -63,8 +65,12 @@
 +Quickhack Fixes
 +Trace Position Overhaul
 -Netrunning_separator
++Immersive Rippers
 +Live A Little - AIO
 -Quests and world_separator
++Hardcore22V3 - Netrunner Scaling
++Hardcore22V3 - Grenade Scaling
++Hardcore22V3 - Body Scaling
 +Immersive Cyberware
 +Pre-2.0 Skill Checks
 +They Will Remember
@@ -72,6 +78,7 @@
 +Immersive Gigs
 -General Gameplay Changes and Overhauls_separator
 +Cyberware Improved
++Clean Voiceovers
 +ForbiddenVehicleMovementNoMore
 +Gone Away - Better Partner Suspended Behaviour
 +Chipware Connoisseur - Infinite Cyberware Stat Rerolling
@@ -82,6 +89,7 @@
 +Skip Anything With TIme Acceleration
 +Shift (Dynamic First Person Camera)
 -Gameplay Tweaks and QoL_separator
++Limited HUD
 +Remove Sandevistan - Berserk - Kerenzikov Screen Effect
 +Real Vendor Names
 +Inventory Adjustments Hub
