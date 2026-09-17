@@ -13,6 +13,7 @@
 +LUT Pack - Nova LUT 3 HDR
 +LUT Switcher 3 (Realtime - Scanner - Weather - Menu)
 -LUT Switcher_separator
++CharLi - Character Lighting Suite for Photomode
 +Hot-Sampled Photomode Renders (IGPT)
 +Photomode Tweaks
 +PhotoMode-EX
