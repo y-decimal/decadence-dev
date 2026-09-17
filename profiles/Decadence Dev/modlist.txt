@@ -57,19 +57,23 @@
 +General Shadows Fixes
 +Ultra Plus Best Performance and Visuals for Everyone
 -Visuals_separator
++Radial Breach
 +1 minimum RAM cost for quickhacks
 +Quickhack Damage Fix
 +Quickhack Fixes
 +Trace Position Overhaul
 -Netrunning_separator
--NCPD Duty Expansion
++Live A Little - AIO
+-Quests_separator
++Immersive Cyberware
++Pre-2.0 Skill Checks
 +They Will Remember
 +Law Enforcement Overhaul
 +Immersive Gigs
 -General Gameplay Changes and Overhauls_separator
-+Gone Away - Better Partner Suspended Behaviour
--Various QoL_separator
++Cyberware Improved
 +ForbiddenVehicleMovementNoMore
++Gone Away - Better Partner Suspended Behaviour
 +Chipware Connoisseur - Infinite Cyberware Stat Rerolling
 +Auto Unequip Weapon Mods And Attachments
 +Better Flashlight
@@ -77,7 +81,7 @@
 +Advanced Control Mod 1.2.3
 +Skip Anything With TIme Acceleration
 +Shift (Dynamic First Person Camera)
--Gameplay QoL_separator
+-Gameplay Tweaks and QoL_separator
 +Remove Sandevistan - Berserk - Kerenzikov Screen Effect
 +Real Vendor Names
 +Inventory Adjustments Hub
@@ -85,7 +89,8 @@
 +CET Window Manager
 +Bloat Begone - 1.5.0b - No Version - No Rewards
 +Load Begone - 2.2.1 (FOMOD)
--UI QoL_separator
+-UI Tweaks and QoL_separator
++Map Exit Lighting and HDR Fixes
 +Streaming Bug Workaround
 +Melee Attacks Fixes And Enhancements
 +Deceptious Bug Fixes
@@ -93,6 +98,7 @@
 +Immersive Night City Fixes
 +Immersive Night City Fixes - CORE
 -Fixes and Tweaks_separator
++Reflex is Cool
 +Window Utils (GUI Library - Animation - Grid Alignment)
 +ReImagined
 +BrowserExtensionFramework
