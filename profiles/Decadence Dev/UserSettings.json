@@ -808,8 +808,8 @@
                     "name": "AdditiveCameraMovements",
                     "type": "float_list",
                     "is_dynamic": false,
-                    "value": 1.0,
-                    "index": 2,
+                    "value": 0.5,
+                    "index": 1,
                     "default_index": 2,
                     "values": [
                         0.0,
