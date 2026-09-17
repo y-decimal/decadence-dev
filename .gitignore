@@ -1,0 +1,46 @@
+# This repo's working tree IS the MO2 instance. Nothing is tracked unless it is
+# explicitly allowed below, so a stray `git add -A` cannot sweep in the 2.7 GiB
+# of downloads or the mod folders. Wabbajack's compiler settings, the profiles,
+# and the download .meta files are the versioned source of the modlist.
+
+# Everything at the instance root is ignored until unignored below.
+/*
+
+# The repo itself
+!/.gitignore
+!/.vscode/
+
+# The compiler settings Wabbajack reads (single .compiler_settings file)
+!/compiler_settings/
+!/compiler_settings/**
+
+# Development tooling
+!/tools/
+!/tools/**
+
+# The profiles MO2 and Wabbajack both read
+!/profiles/
+!/profiles/**
+
+# Download metadata is what makes a compile reproducible from a tag; the
+# archives themselves (multi-GiB) stay untracked. The downloads directory
+# itself must be un-ignored for git to descend into it, its contents are
+# re-ignored wholesale, and only the .meta files are let back through.
+!/downloads/
+/downloads/*
+!/downloads/*.meta
+
+# --- never version, wherever it sits ---------------------------------------
+
+# Save games are written live by MO2 and must never be committed.
+saves/
+
+# Python bytecode caches and .meta repair backups
+__pycache__/
+*.py[cod]
+*.bak-multiline
+
+# Compile logs (compile_modlist.py keeps them outside the instance, but if one
+# ever lands in tools/ it must not be committed; Wabbajack opens indexed files
+# exclusively and a tracked log breaks the next compile)
+logs/
