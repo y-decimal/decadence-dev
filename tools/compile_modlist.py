@@ -89,11 +89,11 @@ import tui  # noqa: E402  (lives beside this script)
 # it - see _reachable_from for why that matters.
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_SETTINGS_DIR = REPO_ROOT / "compiler_settings"
-DEFAULT_LOG_DIR = REPO_ROOT.parent / "compile-logs"
+DEFAULT_LOG_DIR = REPO_ROOT.parent / "Decadence Releases" / "compile-logs"
 # The settings' OutputFile already points beside the instance; defaulting the
 # output directory to its parent means a bare run writes exactly where the
 # settings say.
-DEFAULT_OUTPUT_DIR = REPO_ROOT.parent
+DEFAULT_OUTPUT_DIR = REPO_ROOT.parent / "Decadence Releases"
 
 CLI_EXE = "wabbajack-cli.exe"
 APP_EXE = "Wabbajack.exe"

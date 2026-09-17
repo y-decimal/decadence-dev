@@ -34,7 +34,9 @@
     "unins000.exe",
     "unins000.dat",
     "Decadence Dev.compiler_settings",
-    ".gitignore"
+    ".gitignore",
+    ".git",
+    "dev.md"
   ],
   "AlwaysEnabled": [],
   "Version": "0.0.2",
