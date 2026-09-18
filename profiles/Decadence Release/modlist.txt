@@ -60,22 +60,25 @@
 +EKT Custom Character Creator - Vanilla Eyes
 +Character Preset Manager (CET)
 -Body and Skin_separator
-+Preem Scanner - Pure
 +Alt Character Lighting
 +Better UI Character Lighting - Portrait Edition
-+Extended and Improved Headlights
 +High Resolution Garment Preview - 6k Atelier + Wardrobe
 +Always Best Quality Ads - Map - Hud - Photo Mode - Vending Machines and more
-+Draw Distance ReImagined
 +HD Animated Crosswalks - Emissive 4K Vanilla
 +Better Lanterns
++Ultra Plus Best Performance and Visuals for Everyone
++Weather Switcher (Change Weather - Control Time - Customize Clouds)
++Nova City 2
 +ReLUX Plus (Riders on the Storm)
 +ReLUX (Lighting Redux - Accurate Lighting - AIO)
-+Eyes LOD Fix - No more disappearing eyes
++Extended and Improved Headlights
++Draw Distance ReImagined
 +Improved Distant Shadows and Reflections
-+General Shadows Fixes
++Dirt Begone (Clean Mirrors)
++Blur Begone (Clear Materials with Refraction)
++Preem Scanner - Pure
++Environment Textures Overhaul - ETO
 +Cyberpunk 2077 HD Reworked Project
-+Ultra Plus Best Performance and Visuals for Everyone
 -Visuals_separator
 +Radial Breach
 +1 minimum RAM cost for quickhacks
@@ -116,6 +119,10 @@
 +Bloat Begone - 1.5.0b - No Version - No Rewards
 +Load Begone - 2.2.1 (FOMOD)
 -UI Tweaks and QoL_separator
++Eyes LOD Fix - No more disappearing eyes
++General Shadows Fixes
++Ray Traced Lighting Fixes
++Film Grain Fix
 +Map Exit Lighting and HDR Fixes
 +Streaming Bug Workaround
 +Melee Attacks Fixes And Enhancements
@@ -138,8 +145,7 @@
 +VendorsXL
 +Deceptious Quest Core Utilities and Settings
 +Deceptious Quest Core
-+Night City Fog Nulled
-+Night City Visuals Nulled
++The Nullifier
 -Dependencies_separator
 +shooWatchdog
 +Mod Settings
