@@ -17,6 +17,7 @@
 # Development tooling
 !/tools/
 !/tools/**
+clean_wabbajack_downloads.exe
 
 # The profiles MO2 and Wabbajack both read
 !/profiles/
