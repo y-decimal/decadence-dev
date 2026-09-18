@@ -1511,7 +1511,7 @@
                 {
                     "name": "MaxMonitorBrightness",
                     "type": "float",
-                    "value": 1000.0,
+                    "value": 750.0,
                     "default_value": 500.0,
                     "min_value": 300.0,
                     "max_value": 3000.0,
