@@ -13,14 +13,17 @@
 +LUT Pack - Nova LUT 3 HDR
 +LUT Switcher 3 (Realtime - Scanner - Weather - Menu)
 -LUT Switcher_separator
++Photomode Facial Expression Mega Pack - V and NPCs
++Cute and Sexy Pose Pack for FemV - Photomode and AMM
+-Poses_separator
 +CharLi - Character Lighting Suite for Photomode
 +Hot-Sampled Photomode Renders (IGPT)
 +Photomode Tweaks
 +PhotoMode-EX
 -Photomode_separator
 -Clothing End_separator
-+VermillionForest X Veegee TECHWEAR SET - Archive XL
-+VEEGEE SHOP 2
+-VermillionForest X Veegee TECHWEAR SET - Archive XL
+-VEEGEE SHOP 2
 -Vegee_separator
 +Reina's Outfit (Archive XL - FemV) and Throne (Prop)
 +Aria T'Loak Suit (Archive XL - ACM - FemV)
@@ -37,22 +40,27 @@
 +Underwear Remover Rebuilt
 +Equipment-EX
 -Clothing and Equipment_separator
++Subleader Hair Pack - CCXL
++Beanie's CCXL Salon - 21 Fem V Hairstyles
 +Hyst Hair Collection - CCXL
 +Hair Color Profiles CCXL
 +Preem Hair
 -Hair_separator
+-Unique Eyes to CCXL
 +Beautiful Exotics Eyes Pack - CCXL Version
 +Beautiful IRIS - CCXL Realistic Eyes Texture - Both V
 +Photoreal Eyes CCXL (2048x2048)
 +Heterochromia Eyes - CCXL - EKT CC
 +Heterochromia Eyes - CCXL
--Unique Eyes to CCXL
++Beautiful EYEBROWS II - CCXL - Realistic Textures - BOTH V
 -Eyes_separator
-+Universal Skin Tone - Skin Material - Warm and Smooth
-+Universal Skin Tone -Face Details - Realistic 4k
-+Universal Skin Tone - Head Natural
-+Universal Skin Tone - Skin Microdetails - Realistic - VTK
-+Universal Skin Tone - Fair
++00 - Face Details - Realistic 03 - 8K textures
++02 - HEAD - FAIR - III
++02 - Skin Material - Cold n Sharp
+-00 - Face Details - Realistic 01 - 8K
++01 - Skin Microdetails - Realistic - VTK
+-10 - HEAD - NATURAL
++02 - BODY - FAIR
 +Custom Breast Jiggle Physics LITE
 +Breast Jiggle Physics - enabled for TPP - FPP and Photomode
 +Lethal Curves - Fem V - AXL - +10s05_-05_-05_-05_-05_+00
